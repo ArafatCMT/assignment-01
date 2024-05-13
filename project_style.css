@@ -1,0 +1,79 @@
+
+.btn{
+    width: 200px;
+    padding: 15px;
+    background-color: rgb(237, 62, 31);
+    color: white;
+    font-size: 22px;
+    border: none;
+}
+.banner-club{
+    margin-top: 50px;
+}
+.line{
+    margin-top: 100px;
+}
+.progress-bar-img{
+    width: 150px;
+    margin: auto;
+}
+.progress-bar{
+    display: flex;
+}
+.card-section div{
+    border: none;
+}
+.banner-container-left{
+    margin-top: 50px;
+    width: 450px;
+    height: 300px;
+    background-image: url(photos/2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+}
+.banner-container-right{
+    margin-top: 50px;
+    width: 450px;
+    height: 300px;
+    background-image: url(photos/3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+}
+.res-btn{
+    width: 200px;
+    padding: 15px;
+    border: none;
+    border-radius: 7px;
+    background-color: rgb(237, 62, 31);
+}
+.banner-container-3{
+    display: flex;
+    margin-top: 70px;
+    width: 90%;
+    height: 550px;
+    background-image: url(photos/4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+}
+.banner-container-3-child{
+    padding: 50px;
+}
+.img1{
+    margin-top: 50px;
+}
+.icon{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+.footer{
+    margin-top: 100px;
+}
+.box div li{
+    text-align: center;
+    line-height: 2;
+    list-style: none;
+}
